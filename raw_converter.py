@@ -105,7 +105,7 @@ def full_conversion_workflow(input_file):
 # Example usage
 if __name__ == "__main__":
     # Replace with your input XLS file path
-    input_file = "LOSA.xlsx"
+    input_file = "Arumetsa\Aru_XRD.xlsx"
     
     # Run full conversion workflow
     conversion_results = full_conversion_workflow(input_file)
